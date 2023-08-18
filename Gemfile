@@ -12,4 +12,4 @@ gem "faraday", "~> 2.7"
 
 gem "redis", "~> 5.0"
 
-gem "puma", "~> 6.0"
+gem "puma", "~> 6.3"
